@@ -10,5 +10,9 @@
   },
   "scripts": {
     "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.41",
+    "vue-loader": "^17.0.0"
   }
 }
